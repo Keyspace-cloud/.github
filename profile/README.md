@@ -1,4 +1,4 @@
-## The wallet for your online identity.
+### The wallet for your online identity.
 
 Keyspace is a secure self-custodial cryptographic wallet for your digital life.
 
