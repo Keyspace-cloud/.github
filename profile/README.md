@@ -7,4 +7,4 @@ Keyspace is a secure self-custodial cryptographic wallet for your digital life.
 [![Documentation](https://img.shields.io/badge/Documentation-Read-3b3b3b.svg?style=flat-square&logo=readthedocs)](https://docs.keyspace.cloud/)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da.svg?style=flat-square&logo=discord)](https://discord.gg/sMNvUqz4p9)
 
-![Screenshots](/profile/promo_banner_github.png "Keyspace Browser Plugin and Keyspace Android")
+![Screenshots](https://raw.githubusercontent.com/Keyspace-cloud/.github/main/profile/promo_banner_github.png "Keyspace Browser Plugin and Keyspace Android")
