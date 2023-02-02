@@ -1,8 +1,4 @@
-# Keyspace
-
-<img src = "https://github.com/Keyspace-cloud/android/blob/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" alt = "Wristkey logo" width = "75dp">
-
-### The wallet for your online identity.
+## The wallet for your online identity.
 
 Keyspace is a secure self-custodial cryptographic wallet for your digital life.
 
@@ -11,4 +7,4 @@ Keyspace is a secure self-custodial cryptographic wallet for your digital life.
 [![Documentation](https://img.shields.io/badge/Documentation-Read-3b3b3b.svg?style=flat-square&logo=readthedocs)](https://docs.keyspace.cloud/)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da.svg?style=flat-square&logo=discord)](https://discord.gg/sMNvUqz4p9)
 
-![Screenshot of Keyspace Android](/profile/promo_banner_github.png "Keyspace Browser Plugin and Keyspace Android")
+![Screenshots](/profile/promo_banner_github.png "Keyspace Browser Plugin and Keyspace Android")
